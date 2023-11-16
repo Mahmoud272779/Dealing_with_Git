@@ -1,0 +1,14 @@
+first_time 
+----------
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Mahmoud272779/MobileBrands.git
+git branch -M main
+git push -u origin main
+
+
+
+git add .
+git commit -m "first commit"
+git push
