@@ -12,3 +12,16 @@ git push -u origin main
 git add .
 git commit -m "first commit"
 git push
+
+
+
+branches
+--------
+
+know the branches ---> git branch
+create new branch ----> git branch branchName
+Go to the certain branch ----> git checkout branchName 
+Go to the main ---> git checkout main
+delete branch ---> git branch -d branchName
+create branch and go to it ----> git branch -b branchName
+rename the branch ---->Go to the branch then --> git branch -m newName
