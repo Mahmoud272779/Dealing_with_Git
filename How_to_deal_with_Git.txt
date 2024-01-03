@@ -34,3 +34,6 @@ merge the branch with main --> Go to main -> git checkout main
 			       git merge branchName
 			       u can now delete the branch if u want
 			       git push origin main
+
+Delete the branch without checking if it is merged or not ---> git branch -D branchName
+Delete the branch with checking if it is merged or not ---> git branch -d branchName
